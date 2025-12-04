@@ -16,3 +16,14 @@ O programa:
 Ele é útil para fins educacionais e demonstrações sobre radiação térmica em Física Moderna.
 
 ---
+
+## Fundamentos Implementados
+
+### Lei de Planck (radiância espectral)
+B(λ, T) = (2hc² / λ⁵) * 1 / (exp(hc / (λkT)) - 1)
+
+### Lei de Wien (pico da emissão)
+λ_max = 2,898 × 10⁻³ / T
+
+### Lei de Stefan–Boltzmann (intensidade total)
+I = σ T⁴
